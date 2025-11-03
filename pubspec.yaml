@@ -1,0 +1,11 @@
+name: booking_workspace
+description: Booking application workspace with user and admin apps
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# This is a workspace file - no dependencies here
+# Dependencies are managed in individual app pubspec.yaml files
+
